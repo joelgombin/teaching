@@ -1,0 +1,5 @@
+img[alt=lazarsfeld] { width: 200px; height: 300px;}
+table.rmdtable td, table th {
+  font-size: 12px;
+  padding: 1em 0.5em;
+}
